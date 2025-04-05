@@ -1,6 +1,8 @@
 *
-!readme.md
 !.gitignore
-!bot
-!db
+!readme.md
 !compose.yaml
+!bot/
+!bot/**
+!db/
+!db/**
